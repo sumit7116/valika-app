@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9672785354",
+    "project_id": "valikas-app",
+    "storage_bucket": "valikas-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9672785354:android:4c9202c2553acadaf2e333",
+        "android_client_info": {
+          "package_name": "com.codeclause.Valikas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBah1ADYg8jbX0nuwjERcoUCloXDgMUqxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
